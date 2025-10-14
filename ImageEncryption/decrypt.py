@@ -32,7 +32,7 @@ if __name__ == '__main__':
     output_file = sys.argv[2]
 
     # AES key must match the encryption key
-    key = b'ThisIsA16ByteKey'  # Use the same key as in encryption
+    key = b'pallaviSECURE123'  # Use the same key as in encryption
 
     decrypt_image(input_file, output_file, key)
     print(f"Image decrypted and saved to {output_file}")

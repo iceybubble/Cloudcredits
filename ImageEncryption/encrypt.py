@@ -39,7 +39,7 @@ if __name__ == '__main__':
     output_file = sys.argv[2]
 
     # AES key must be either 16, 24, or 32 bytes long
-    key = b'ThisIsA16ByteKey'  # Replace with secure key management in real projects
+    key = b'pallaviSECURE123'  # Replace with secure key management in real projects
 
     encrypt_image(input_file, output_file, key)
     print(f"Image encrypted and saved to {output_file}")
