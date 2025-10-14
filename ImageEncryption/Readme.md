@@ -3,16 +3,9 @@ Overview
 
 This project demonstrates simple and effective image encryption using AES (Advanced Encryption Standard) to secure digital images. Users can encrypt and decrypt JPG/PNG files, ensuring privacy for confidential image data. The project includes a Streamlit web app for easy, interactive use.
 
-Try the Online Streamlit App
+You can directly encrypt and decrypt images using the interactive web app here:
 
 https://cloudcredits-pbpljgy9cuvxxxnyps7r9q.streamlit.app/
-
-You can directly encrypt and decrypt images using the interactive web app here:
-```
-
-Launch Image Encryption Streamlit App
-
-```
 
 Upload your image, set your AES key, and use the web interface to encrypt or decrypt files instantly.
 
